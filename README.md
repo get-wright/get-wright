@@ -10,6 +10,14 @@ I'm a freelance bug bounty hunter and a passionate cybersecurity enthusiast. Cur
 * ✉️  You can contact me at [quochung.qchnt@gmail.com](mailto:quochung.qchnt@gmail.com)
 * 🧠  I'm learning about AD, C2, and binary exploitations
 
+### Pwned machines in HTB
+* Analytics (Easy): [Rank #252](https://www.hackthebox.com/achievement/machine/1659255/569)
+* CozyHosting (Easy): [Rank #5093](https://www.hackthebox.com/achievement/machine/1659255/559)
+* Keeper(Easy): [Rank #7977](https://www.hackthebox.com/achievement/machine/1659255/556)
+* Sau (Easy): [Rank #9688](https://www.hackthebox.com/achievement/machine/1659255/551)
+* Clicker (Medium): [Rank #802](https://www.hackthebox.com/achievement/machine/1659255/564)
+* Visual (Medium): [Rank #324](https://www.hackthebox.com/achievement/machine/1659255/568)
+
 ### Skills
 
 
