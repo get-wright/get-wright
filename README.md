@@ -17,6 +17,7 @@ I'm a freelance bug bounty hunter and a passionate cybersecurity enthusiast. Cur
 * Sau (Easy): [Rank #9688](https://www.hackthebox.com/achievement/machine/1659255/551)
 * Clicker (Medium): [Rank #802](https://www.hackthebox.com/achievement/machine/1659255/564)
 * Visual (Medium): [Rank #324](https://www.hackthebox.com/achievement/machine/1659255/568)
+* Drive (Hard): [Rank #187](https://www.hackthebox.com/achievement/machine/1659255/570)
 
 ### Skills
 
