@@ -8,7 +8,8 @@ I'm a freelance bug bounty hunter and a passionate cybersecurity enthusiast. Cur
 
 * 🌍  I'm based in Hanoi
 * ✉️  You can contact me at [quochung.qchnt@gmail.com](mailto:quochung.qchnt@gmail.com)
-* 🧠  I'm learning about AD, C2, and binary exploitations
+* 🧠  I'm learning more about AD and adversaries 
+* Checkout my blog at [here](https://c4pt4in-n3m0.gitbook.io/c4ptain-n3m0/)  
 
 ### Pwned machines in HTB
 * Analytics (Easy): [Rank #252](https://www.hackthebox.com/achievement/machine/1659255/569)
@@ -18,6 +19,7 @@ I'm a freelance bug bounty hunter and a passionate cybersecurity enthusiast. Cur
 * Clicker (Medium): [Rank #802](https://www.hackthebox.com/achievement/machine/1659255/564)
 * Visual (Medium): [Rank #324](https://www.hackthebox.com/achievement/machine/1659255/568)
 * Drive (Hard): [Rank #187](https://www.hackthebox.com/achievement/machine/1659255/570)
+* Surveillance (Medium): [Rank #704](https://www.hackthebox.com/achievement/machine/1659255/580)
 
 ### Skills
 
