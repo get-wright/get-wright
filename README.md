@@ -26,7 +26,7 @@ I'm a freelance bug bounty hunter and a passionate cybersecurity enthusiast. Cur
 * Devvortex (Easy): [Rank #7244](https://www.hackthebox.com/achievement/machine/1659255/577)
 * Codify (Easy): [Rank #1765](https://www.hackthebox.com/achievement/machine/1659255/574)
 
-**Season 4**
+**SEASON 4**
 * Analysis (Hard): [Rank #752](https://www.hackthebox.com/achievement/machine/1659255/584)
 * Monitored (Medium): [Rank #953](https://www.hackthebox.com/achievement/machine/1659255/583)
 * POV (Medium): [Rank #303](https://www.hackthebox.com/achievement/machine/1659255/585)
