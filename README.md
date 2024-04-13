@@ -10,28 +10,6 @@ I'm a freelance bug bounty hunter and a passionate cybersecurity enthusiast. Cur
 * ✉️  You can contact me at [quochung.qchnt@gmail.com](mailto:quochung.qchnt@gmail.com)
 * Checkout my blog at [here](https://c4pt4in-n3m0.gitbook.io/c4ptain-n3m0/)  
 
-### Pwned machines in HTB
-* Clicker (Medium): [Rank #802](https://www.hackthebox.com/achievement/machine/1659255/564)
-* CozyHosting (Easy): [Rank #5093](https://www.hackthebox.com/achievement/machine/1659255/559)
-* Keeper(Easy): [Rank #7977](https://www.hackthebox.com/achievement/machine/1659255/556)
-* Sau (Easy): [Rank #9688](https://www.hackthebox.com/achievement/machine/1659255/551)
-
-
-**SEASON 3 - [RANK 783/6939](https://labs.hackthebox.com/achievement/season/1659255/3)**
-* Drive (Hard): [Rank #187](https://www.hackthebox.com/achievement/machine/1659255/570)
-* Visual (Medium): [Rank #324](https://www.hackthebox.com/achievement/machine/1659255/568)
-* Surveillance (Medium): [Rank #704](https://www.hackthebox.com/achievement/machine/1659255/580)
-* Hospital (Medium): [Rank #2880](https://www.hackthebox.com/achievement/machine/1659255/576)
-* Analytics (Easy): [Rank #252](https://www.hackthebox.com/achievement/machine/1659255/569)
-* Devvortex (Easy): [Rank #7244](https://www.hackthebox.com/achievement/machine/1659255/577)
-* Codify (Easy): [Rank #1765](https://www.hackthebox.com/achievement/machine/1659255/574)
-
-**SEASON 4**
-* Analysis (Hard): [Rank #752](https://www.hackthebox.com/achievement/machine/1659255/584)
-* Monitored (Medium): [Rank #953](https://www.hackthebox.com/achievement/machine/1659255/583)
-* POV (Medium): [Rank #303](https://www.hackthebox.com/achievement/machine/1659255/585)
-* Bizness (Easy): [Rank #3288](https://www.hackthebox.com/achievement/machine/1659255/582)
-
 ### Skills
 
 
