@@ -26,4 +26,4 @@ I'm a freelance bug bounty hunter and a passionate cybersecurity enthusiast. Cur
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/get-wright/x-scan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=get-wright&repo=X-scan&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/get-wright/x-scan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=get-wright&repo=X-scan&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/get-wright/GoKnocker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=get-wright&repo=GoKnocker&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
